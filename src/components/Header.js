@@ -9,7 +9,7 @@ function Header() {
         <a href="#">Blogs</a>
       </nav>
 
-      <button className="yellow-teransparent-btn header-btn">
+      <button className="yellow-teransparent-btn_header-btn">
         GIFT FINDER
       </button>
     </header>

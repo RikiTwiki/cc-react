@@ -3,7 +3,7 @@ function GiftCard({ imgURL, title }) {
     <div className="gifts-card">
       <img src={imgURL} alt="" />
       <p className="card-title">{title}</p>
-      <button>see more</button>
+      <button>See More ›</button>
     </div>
   );
 }

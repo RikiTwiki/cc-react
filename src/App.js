@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import AboutUs from "./components/AboutUs";
 import Gifts from "./components/Gifts";
+// import GiftCard from "./components/GiftCard";
 // import MyComponent from "./MyComponent";
 // import RikiTwiki from "./Rick";
 // import Riki from "./Riki";
@@ -18,6 +19,7 @@ function App() {
       <Header />
       <AboutUs />
       <Gifts />
+      {/* <GiftCard /> */}
     </>
   );
 }
